@@ -1,11 +1,12 @@
 ### Hi there 👋.
 It's Marco.
 
-- 👨‍🎓 alumnus @ Politecnico di Milano.
+- 🧑🏻‍💼 AI Engineer @ [Datwave.ai](https://datwave.ai)
+- 👨‍🎓 alumnus @ [Politecnico di Milano](https://polimi.it)
 - 💻 passionate about data, and how to make it useful!
-- 📌 located in Como, Lombardy, Italy.
+- 📌 located in Como, Lombardy, Italy
 - 👷 available for hire!
-- 📫 reach me with an [email](mailto:marcobonalumi.mb+git@gmail.com).
+- 📫 reach me with an [email](mailto:marcobonalumi.mb+git@gmail.com)
 
 <!--
 **MBonalumi/MBonalumi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
