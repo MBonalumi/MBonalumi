@@ -5,7 +5,6 @@ It's Marco.
 - 👨‍🎓 alumnus @ [Politecnico di Milano](https://polimi.it)
 - 💻 passionate about data, and how to make it useful!
 - 📌 located in Como, Lombardy, Italy
-- 👷 available for hire!
 - 📫 reach me with an [email](mailto:marcobonalumi.mb+git@gmail.com)
 
 <!--
