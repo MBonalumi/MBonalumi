@@ -1,7 +1,7 @@
 ### Hi there 👋.
 It's Marco.
 
-- 🧑🏻‍💼 AI Engineer @ [Datwave.ai](https://datwave.ai)
+- 🧑🏻‍💼 AI Engineer @ [datwave.ai](https://datwave.ai)
 - 👨‍🎓 alumnus @ [Politecnico di Milano](https://polimi.it)
 - 💻 passionate about data and how to make it useful!
 - 📌 located in Como, Lombardy, Italy
